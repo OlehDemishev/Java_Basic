@@ -4,7 +4,6 @@ package homeWork_13;
 Напишите метод, который вычисляет сумму всех четных чисел в массиве.
 */
 
-
     public class Task_01 {
 
         public static int sumEven(int[] numbers) {
